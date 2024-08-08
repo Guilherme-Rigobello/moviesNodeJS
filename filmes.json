@@ -1,0 +1,25 @@
+[
+	{
+		"titulo": "Bad Boys 2",
+		"ano": "2003",
+		"diretor": "Michael Bay",
+		"genero": "Ação/Policial",
+		"cartaz": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/9943f2a9-9529-48df-833f-34cd3279cb27/1be40d9418deaebcff42c9954924ae8e20d1196f.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom"
+		
+	},
+	{
+		"titulo": "Até O Último Homem",
+		"ano": "2017",
+		"diretor": "Mel Gibson",
+		"genero": "Guerra/Drama",
+		"cartaz": "https://miro.medium.com/v2/resize:fit:946/1*0q4JfIfGOBQo2oHQ-82BtQ.jpeg"
+		
+	},
+	{
+		"titulo": "Oppenheimer",
+		"ano": "2023",
+		"diretor": "Christopher Nolan",
+		"genero": "Suspense/Obra de Época",
+		"cartaz": "https://manualdosgames.com/wp-content/uploads/2023/07/WhatsApp-Image-2023-07-19-at-10.08.39.jpg"
+	}
+]
